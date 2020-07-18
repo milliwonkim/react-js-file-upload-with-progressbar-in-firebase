@@ -24,6 +24,7 @@ function LinearProgressWithLabel(props) {
         </Box>
     );
 }
+// -------------
 
 LinearProgressWithLabel.propTypes = {
     /**
